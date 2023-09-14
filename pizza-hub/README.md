@@ -24,7 +24,7 @@ Install dependencies
 Start the server
 
 ```bash
-  go run cmd/main.go
+  make running-local
 ```
 
 ## Endpoint
